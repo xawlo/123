@@ -3,83 +3,55 @@
     "goods": [
       {
         "id": 0,
-        "imgGoods": 2131099733,
+        "imgGoods": "https://psv4.userapi.com/c848424/u525116496/docs/d16/cec2a68eb90a/midle_case_gold.png?extra=gm-HzYy-APs5BJOgerrCgr_F5jZT-pMKqkIYsSq-qREFV7eqhSW0pj8yqngnBtJgsxTX57FfnGuBRvJ218sOQIqR59mueUQktqM3guLlqq0qClPdpMnmZWiDoz2RicsEREcL6iyvzMbaDgfp0k00Dtt9",
         "nameGoods": "500 золота",
         "priceGoods": 0.99,
         "probabilityOfLoss": 6
       },
       {
         "id": 1,
-        "imgGoods": 2131099733,
+        "imgGoods": "https://psv4.userapi.com/c848324/u525116496/docs/d9/606cd47ca961/pa_3.png?extra=EyWGkDCpyDg2maGatBmnIEN9z7gNwdioa68ei6AtT1gIJqdbTuzoFHKBYc8O76ncjHHDyqWSnhI9_slTibFSykeBSZo3NlWwBdGGeuPtCvCNvwXaPGajXMIYcLqwvxad6rD23CP9w8C5xPtUivx_hJbe",
         "nameGoods": "3 дня ПА",
         "priceGoods": 1.5,
         "probabilityOfLoss": 5
       },
       {
         "id": 2,
-        "imgGoods": 2131099733,
-        "nameGoods": "Т-34-85",
-        "priceGoods": 1.8,
-        "probabilityOfLoss": 5
-      },
-      {
-        "id": 3,
-        "imgGoods": 2131099733,
-        "nameGoods": "2500 золота",
-        "priceGoods": 3.8,
-        "probabilityOfLoss": 3
-      },
-      {
-        "id": 4,
-        "imgGoods": 2131099733,
+        "imgGoods": "https://psv4.userapi.com/c856216/u525116496/docs/d10/543f8fa606af/tank_IS6.png?extra=hx5IyWGCQJQAE1RbjJybZCZppneAA7nzFxTzKx-pxUf2igrF5V1HGLJWckAbDyaKBT9OF80EL0H3QngUITFT3rAkt-ZOm5ofFhXwGaukRU3JZdM3tno-LGpyK04SYLf_OgVqBTW4NyihdeVBWzoutHqz",
         "nameGoods": "ИС - 6",
         "priceGoods": 4,
-        "probabilityOfLoss": 2
+        "probabilityOfLoss": 1
       }
     ],
-    "imageCase": 2131099733,
-    "nameCase": "СССР",
+    "imageCase": "https://psv4.userapi.com/c848020/u525116496/docs/d18/d6cda19255e2/simple_case.png?extra=Y7q8YyUk9R7KxgeOanslwkTs6HD5msga_pv9ABoN_KOTHIAky5sXdiQhu7C5B5HY0Zhe2hTdZ0QJU8Nn3QfsSeszhdkdLVGQ8zH8hEezOVaJkXUQWTc8gnjrO_SK4Y2iTqaiHH3HaxjOtybr6t9J6yCd",
+    "nameCase": "Free",
     "priceCase": 0
   },
   {
     "goods": [
       {
         "id": 0,
-        "imgGoods": 2131099733,
+        "imgGoods": "https://psv4.userapi.com/c848424/u525116496/docs/d16/cec2a68eb90a/midle_case_gold.png?extra=gm-HzYy-APs5BJOgerrCgr_F5jZT-pMKqkIYsSq-qREFV7eqhSW0pj8yqngnBtJgsxTX57FfnGuBRvJ218sOQIqR59mueUQktqM3guLlqq0qClPdpMnmZWiDoz2RicsEREcL6iyvzMbaDgfp0k00Dtt9",
         "nameGoods": "500 золота",
         "priceGoods": 0.99,
         "probabilityOfLoss": 6
       },
       {
         "id": 1,
-        "imgGoods": 2131099733,
+        "imgGoods": "https://psv4.userapi.com/c848324/u525116496/docs/d9/606cd47ca961/pa_3.png?extra=EyWGkDCpyDg2maGatBmnIEN9z7gNwdioa68ei6AtT1gIJqdbTuzoFHKBYc8O76ncjHHDyqWSnhI9_slTibFSykeBSZo3NlWwBdGGeuPtCvCNvwXaPGajXMIYcLqwvxad6rD23CP9w8C5xPtUivx_hJbe",
         "nameGoods": "3 дня ПА",
         "priceGoods": 1.5,
         "probabilityOfLoss": 5
       },
       {
         "id": 2,
-        "imgGoods": 2131099733,
-        "nameGoods": "Т-34-85",
-        "priceGoods": 1.8,
-        "probabilityOfLoss": 5
-      },
-      {
-        "id": 3,
-        "imgGoods": 2131099733,
-        "nameGoods": "2500 золота",
-        "priceGoods": 3.8,
-        "probabilityOfLoss": 3
-      },
-      {
-        "id": 4,
-        "imgGoods": 2131099733,
+        "imgGoods": "https://psv4.userapi.com/c856216/u525116496/docs/d10/543f8fa606af/tank_IS6.png?extra=hx5IyWGCQJQAE1RbjJybZCZppneAA7nzFxTzKx-pxUf2igrF5V1HGLJWckAbDyaKBT9OF80EL0H3QngUITFT3rAkt-ZOm5ofFhXwGaukRU3JZdM3tno-LGpyK04SYLf_OgVqBTW4NyihdeVBWzoutHqz",
         "nameGoods": "ИС - 6",
         "priceGoods": 4,
         "probabilityOfLoss": 2
       }
     ],
-    "imageCase": 2131099733,
+    "imageCase": "https://psv4.userapi.com/c848020/u525116496/docs/d18/d6cda19255e2/simple_case.png?extra=Y7q8YyUk9R7KxgeOanslwkTs6HD5msga_pv9ABoN_KOTHIAky5sXdiQhu7C5B5HY0Zhe2hTdZ0QJU8Nn3QfsSeszhdkdLVGQ8zH8hEezOVaJkXUQWTc8gnjrO_SK4Y2iTqaiHH3HaxjOtybr6t9J6yCd",
     "nameCase": "Воин",
     "priceCase": 1
   }
