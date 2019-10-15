@@ -1,1 +1,86 @@
-
+[
+  {
+    "goods": [
+      {
+        "id": 0,
+        "imgGoods": 2131099733,
+        "nameGoods": "500 золота",
+        "priceGoods": 0.99,
+        "probabilityOfLoss": 6
+      },
+      {
+        "id": 1,
+        "imgGoods": 2131099733,
+        "nameGoods": "3 дня ПА",
+        "priceGoods": 1.5,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 2,
+        "imgGoods": 2131099733,
+        "nameGoods": "Т-34-85",
+        "priceGoods": 1.8,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 3,
+        "imgGoods": 2131099733,
+        "nameGoods": "2500 золота",
+        "priceGoods": 3.8,
+        "probabilityOfLoss": 3
+      },
+      {
+        "id": 4,
+        "imgGoods": 2131099733,
+        "nameGoods": "ИС - 6",
+        "priceGoods": 4,
+        "probabilityOfLoss": 2
+      }
+    ],
+    "imageCase": 2131099733,
+    "nameCase": "СССР",
+    "priceCase": 0
+  },
+  {
+    "goods": [
+      {
+        "id": 0,
+        "imgGoods": 2131099733,
+        "nameGoods": "500 золота",
+        "priceGoods": 0.99,
+        "probabilityOfLoss": 6
+      },
+      {
+        "id": 1,
+        "imgGoods": 2131099733,
+        "nameGoods": "3 дня ПА",
+        "priceGoods": 1.5,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 2,
+        "imgGoods": 2131099733,
+        "nameGoods": "Т-34-85",
+        "priceGoods": 1.8,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 3,
+        "imgGoods": 2131099733,
+        "nameGoods": "2500 золота",
+        "priceGoods": 3.8,
+        "probabilityOfLoss": 3
+      },
+      {
+        "id": 4,
+        "imgGoods": 2131099733,
+        "nameGoods": "ИС - 6",
+        "priceGoods": 4,
+        "probabilityOfLoss": 2
+      }
+    ],
+    "imageCase": 2131099733,
+    "nameCase": "Воин",
+    "priceCase": 1
+  }
+]
