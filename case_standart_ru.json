@@ -31,14 +31,14 @@
     "goods": [
       {
         "id": 0,
-        "imgGoods": "https://psv4.userapi.com/c848424/u525116496/docs/d16/cec2a68eb90a/midle_case_gold.png?extra=gm-HzYy-APs5BJOgerrCgr_F5jZT-pMKqkIYsSq-qREFV7eqhSW0pj8yqngnBtJgsxTX57FfnGuBRvJ218sOQIqR59mueUQktqM3guLlqq0qClPdpMnmZWiDoz2RicsEREcL6iyvzMbaDgfp0k00Dtt9",
+        "imgGoods": "https://i.pinimg.com/originals/63/48/dc/6348dcc126b500e05a3d7a0276ee37e7.png",
         "nameGoods": "500 золота",
         "priceGoods": 0.99,
         "probabilityOfLoss": 6
       },
       {
         "id": 1,
-        "imgGoods": "https://psv4.userapi.com/c848324/u525116496/docs/d9/606cd47ca961/pa_3.png?extra=EyWGkDCpyDg2maGatBmnIEN9z7gNwdioa68ei6AtT1gIJqdbTuzoFHKBYc8O76ncjHHDyqWSnhI9_slTibFSykeBSZo3NlWwBdGGeuPtCvCNvwXaPGajXMIYcLqwvxad6rD23CP9w8C5xPtUivx_hJbe",
+        "imgGoods": "https://i.pinimg.com/originals/2c/f5/3e/2cf53ecd46681427a4655a19dfa2ac59.png",
         "nameGoods": "3 дня ПА",
         "priceGoods": 1.5,
         "probabilityOfLoss": 5
