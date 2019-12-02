@@ -3,24 +3,80 @@
     "goods": [
       {
         "id": 0,
-        "imgGoods": "https://psv4.userapi.com/c848424/u525116496/docs/d16/cec2a68eb90a/midle_case_gold.png?extra=gm-HzYy-APs5BJOgerrCgr_F5jZT-pMKqkIYsSq-qREFV7eqhSW0pj8yqngnBtJgsxTX57FfnGuBRvJ218sOQIqR59mueUQktqM3guLlqq0qClPdpMnmZWiDoz2RicsEREcL6iyvzMbaDgfp0k00Dtt9",
-        "nameGoods": "500 золота",
-        "priceGoods": 0.99,
-        "probabilityOfLoss": 6
+        "imgGoods": "https://i.pinimg.com/originals/2f/2f/e8/2f2fe8c3575dc2d76babbd22c28b938f.png",
+        "nameGoods": "МС - 1",
+        "priceGoods": 1.2,
+        "probabilityOfLoss": 1
       },
       {
         "id": 1,
-        "imgGoods": "https://psv4.userapi.com/c848324/u525116496/docs/d9/606cd47ca961/pa_3.png?extra=EyWGkDCpyDg2maGatBmnIEN9z7gNwdioa68ei6AtT1gIJqdbTuzoFHKBYc8O76ncjHHDyqWSnhI9_slTibFSykeBSZo3NlWwBdGGeuPtCvCNvwXaPGajXMIYcLqwvxad6rD23CP9w8C5xPtUivx_hJbe",
-        "nameGoods": "3 дня ПА",
-        "priceGoods": 1,
-        "probabilityOfLoss": 5
+        "imgGoods": "https://i.pinimg.com/originals/b6/d7/01/b6d7014fe3acd3edabf843298c805d02.png",
+        "nameGoods": "1000 св.опыта",
+        "priceGoods": 0,16,
+        "probabilityOfLoss": 6
       },
       {
         "id": 2,
-        "imgGoods": "https://i.pinimg.com/originals/12/3f/1b/123f1b8e075da4dd60565f19a4933900.png",
-        "nameGoods": "ИС - 6",
-        "priceGoods": 4,
-        "probabilityOfLoss": 1
+        "imgGoods": "https://i.pinimg.com/originals/ca/52/6b/ca526b3ca1bbf389b36a8ba2c3c96804.png",
+        "nameGoods": "100 золота",
+        "priceGoods": 0,34,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 3,
+        "imgGoods": "https://i.pinimg.com/originals/06/12/4a/06124ad7d89b911fcb5be13eac7a6c5c.png",
+        "nameGoods": "1 день ПА",
+        "priceGoods": 0,85,
+        "probabilityOfLoss": 3
+      },
+       {
+        "id": 4,
+        "imgGoods": "https://i.pinimg.com/originals/2d/2c/b0/2d2cb0cfd1ca977a067b6b6e4bf7636c.png",
+        "nameGoods": "Ручной огнетушитель",
+        "priceGoods": 0,05,
+        "probabilityOfLoss": 6
+      },
+       {
+        "id": 5,
+        "imgGoods": "https://i.pinimg.com/originals/7a/12/ad/7a12adacbe8bb4b8bfe722ba7545f396.png",
+        "nameGoods": "Болотный аллигатор",
+        "priceGoods": 0,17,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 6,
+        "imgGoods": "https://i.pinimg.com/originals/ca/52/6b/ca526b3ca1bbf389b36a8ba2c3c96804.png",
+        "nameGoods": "200 золота",
+        "priceGoods": 0,64,
+        "probabilityOfLoss": 3
+      },
+      {
+        "id": 7,
+        "imgGoods": "https://i.pinimg.com/originals/b6/d7/01/b6d7014fe3acd3edabf843298c805d02.png",
+        "nameGoods": "5000 св.опыта",
+        "priceGoods": 0,8,
+        "probabilityOfLoss": 4
+      },
+      {
+        "id": 8,
+        "imgGoods": "https://i.pinimg.com/originals/32/8c/7d/328c7d7e1c78185237fef2e6372d4c9d.png",
+        "nameGoods": "T1 Cunningham",
+        "priceGoods": 1,
+        "probabilityOfLoss": 2
+      },
+      {
+        "id": 9,
+        "imgGoods": "https://i.pinimg.com/originals/51/13/fe/5113fecc4af4036a401f13ff9bcb4e7f.png",
+        "nameGoods": "20 Снарядов",
+        "priceGoods": 1,
+        "probabilityOfLoss": 2
+      },
+       {
+        "id": 10,
+        "imgGoods": "https://i.pinimg.com/originals/ca/52/6b/ca526b3ca1bbf389b36a8ba2c3c96804.png",
+        "nameGoods": "200 золота",
+        "priceGoods": 0,17,
+        "probabilityOfLoss": 6
       }
     ],
     "imageCase": "https://i.pinimg.com/originals/c2/a2/c7/c2a2c7a1eb2e5ae864132e6f73c21669.png",
