@@ -12,49 +12,49 @@
         "id": 1,
         "imgGoods": "https://i.pinimg.com/originals/b6/d7/01/b6d7014fe3acd3edabf843298c805d02.png",
         "nameGoods": "1000 св.опыта",
-        "priceGoods": 0,16,
+        "priceGoods": 0.16,
         "probabilityOfLoss": 6
       },
       {
         "id": 2,
         "imgGoods": "https://i.pinimg.com/originals/ca/52/6b/ca526b3ca1bbf389b36a8ba2c3c96804.png",
         "nameGoods": "100 золота",
-        "priceGoods": 0,34,
+        "priceGoods": 0.34,
         "probabilityOfLoss": 5
       },
       {
         "id": 3,
         "imgGoods": "https://i.pinimg.com/originals/06/12/4a/06124ad7d89b911fcb5be13eac7a6c5c.png",
         "nameGoods": "1 день ПА",
-        "priceGoods": 0,85,
+        "priceGoods": 0.85,
         "probabilityOfLoss": 3
       },
        {
         "id": 4,
         "imgGoods": "https://i.pinimg.com/originals/2d/2c/b0/2d2cb0cfd1ca977a067b6b6e4bf7636c.png",
         "nameGoods": "Ручной огнетушитель",
-        "priceGoods": 0,05,
+        "priceGoods": 0.05,
         "probabilityOfLoss": 6
       },
        {
         "id": 5,
         "imgGoods": "https://i.pinimg.com/originals/7a/12/ad/7a12adacbe8bb4b8bfe722ba7545f396.png",
         "nameGoods": "Болотный аллигатор",
-        "priceGoods": 0,17,
+        "priceGoods": 0.17,
         "probabilityOfLoss": 5
       },
       {
         "id": 6,
         "imgGoods": "https://i.pinimg.com/originals/ca/52/6b/ca526b3ca1bbf389b36a8ba2c3c96804.png",
         "nameGoods": "200 золота",
-        "priceGoods": 0,64,
+        "priceGoods": 0.64,
         "probabilityOfLoss": 3
       },
       {
         "id": 7,
         "imgGoods": "https://i.pinimg.com/originals/b6/d7/01/b6d7014fe3acd3edabf843298c805d02.png",
         "nameGoods": "5000 св.опыта",
-        "priceGoods": 0,8,
+        "priceGoods": 0.8,
         "probabilityOfLoss": 4
       },
       {
@@ -68,14 +68,14 @@
         "id": 9,
         "imgGoods": "https://i.pinimg.com/originals/51/13/fe/5113fecc4af4036a401f13ff9bcb4e7f.png",
         "nameGoods": "20 Снарядов",
-        "priceGoods": 1,
-        "probabilityOfLoss": 2
+        "priceGoods": 0.4,
+        "probabilityOfLoss": 5
       },
        {
         "id": 10,
         "imgGoods": "https://i.pinimg.com/originals/ca/52/6b/ca526b3ca1bbf389b36a8ba2c3c96804.png",
         "nameGoods": "200 золота",
-        "priceGoods": 0,17,
+        "priceGoods": 0.17,
         "probabilityOfLoss": 6
       }
     ],
