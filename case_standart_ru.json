@@ -250,5 +250,89 @@
     "imageCase": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/imba_case.png",
     "nameCase": "ИМБА",
     "priceCase": 150
+  },
+   {
+    "goods": [
+      {
+        "id": 0,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/tiger_I.png",
+        "nameGoods": "TIGER I",
+        "priceGoods": 175,
+        "probabilityOfLoss": 1
+      },
+      {
+        "id": 1,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/stugIV.png",
+        "nameGoods": "Stug IV",
+        "priceGoods": 125,
+        "probabilityOfLoss": 2
+      },
+      {
+        "id": 2,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/10_dnej_pa.png",
+        "nameGoods": "10 дней ПА",
+        "priceGoods": 85,
+        "probabilityOfLoss": 3
+      },
+      {
+        "id": 3,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
+        "nameGoods": "40к св.опыта",
+        "priceGoods": 80,
+        "probabilityOfLoss": 4
+      },
+       {
+        "id": 4,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/1050-2500.png",
+        "nameGoods": "1250 Золота",
+        "priceGoods": 50,
+        "probabilityOfLoss": 3
+      },
+       {
+        "id": 5,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/bustery.png",
+        "nameGoods": "10 бустеров",
+        "priceGoods": 32.5,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 6,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/500-1000.png",
+        "nameGoods": "500 золота",
+        "priceGoods": 20,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 7,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/uvelichennyj_zarjad.png",
+        "nameGoods": "Увеличенный заряд",
+        "priceGoods": 17.5,
+        "probabilityOfLoss": 6
+      },
+      {
+        "id": 8,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
+        "nameGoods": "8к св.опыта",
+        "priceGoods": 15,
+        "probabilityOfLoss": 6
+      },
+      {
+        "id": 9,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
+        "nameGoods": "312 золота",
+        "priceGoods": 12.5,
+        "probabilityOfLoss": 6
+      },
+       {
+        "id": 10,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/sgushhennoe_moloko.png",
+        "nameGoods": "Сгущенка",
+        "priceGoods": 10,
+        "probabilityOfLoss": 5
+      }
+    ],
+    "imageCase": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/wtiger_case.png",
+    "nameCase": "Белый тигр",
+    "priceCase": 250
   }
 ]
