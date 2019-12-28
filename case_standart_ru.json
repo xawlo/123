@@ -166,5 +166,89 @@
     "imageCase": "https://wgfmcase.ucoz.net/WGFMCase/WarriorCase/warriorCase.png",
     "nameCase": "Воин",
     "priceCase": 50
+  },
+  {
+    "goods": [
+      {
+        "id": 0,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/T-34.png",
+        "nameGoods": "Т-34",
+        "priceGoods": 105,
+        "probabilityOfLoss": 1
+      },
+      {
+        "id": 1,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/cherchill_iii.png",
+        "nameGoods": "Черчилль III",
+        "priceGoods": 75,
+        "probabilityOfLoss": 2
+      },
+      {
+        "id": 2,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/7_dnja_pa.png",
+        "nameGoods": "7 дней ПА",
+        "priceGoods": 51,
+        "probabilityOfLoss": 3
+      },
+      {
+        "id": 3,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
+        "nameGoods": "21к св.опыта",
+        "priceGoods": 48,
+        "probabilityOfLoss": 4
+      },
+       {
+        "id": 4,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/500-1000.png",
+        "nameGoods": "1к Золота",
+        "priceGoods": 30,
+        "probabilityOfLoss": 3
+      },
+       {
+        "id": 5,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/podkalibernyj_snarjad.png",
+        "nameGoods": "90 снарядов",
+        "priceGoods": 19.5,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 6,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
+        "nameGoods": "400 золота",
+        "priceGoods": 12,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 7,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/doppajok.png",
+        "nameGoods": "Доппаек",
+        "priceGoods": 10.5,
+        "probabilityOfLoss": 6
+      },
+      {
+        "id": 8,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
+        "nameGoods": "6к св.опыта",
+        "priceGoods": 9,
+        "probabilityOfLoss": 6
+      },
+      {
+        "id": 9,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
+        "nameGoods": "180 золота",
+        "priceGoods": 7.5,
+        "probabilityOfLoss": 6
+      },
+       {
+        "id": 10,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/khokhloma_maskirovka.png",
+        "nameGoods": "Маскировка Хохлома",
+        "priceGoods": 6,
+        "probabilityOfLoss": 5
+      }
+    ],
+    "imageCase": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/imba_case.png",
+    "nameCase": "ИМБА",
+    "priceCase": 150
   }
 ]
