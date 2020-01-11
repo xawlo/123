@@ -270,69 +270,69 @@
       {
         "id": 2,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/10_dnej_pa.png",
-        "nameGoods": "10 дней ПА",
+        "nameGoods": "10 days PA",
         "priceGoods": 85,
         "probabilityOfLoss": 3
       },
       {
         "id": 3,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
-        "nameGoods": "40к св.опыта",
+        "nameGoods": "40K free exp.",
         "priceGoods": 80,
         "probabilityOfLoss": 4
       },
        {
         "id": 4,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/1050-2500.png",
-        "nameGoods": "1250 Золота",
+        "nameGoods": "1250 Gold",
         "priceGoods": 50,
         "probabilityOfLoss": 3
       },
        {
         "id": 5,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/bustery.png",
-        "nameGoods": "10 бустеров",
+        "nameGoods": "10 booster",
         "priceGoods": 32.5,
         "probabilityOfLoss": 5
       },
       {
         "id": 6,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/500-1000.png",
-        "nameGoods": "500 золота",
+        "nameGoods": "500 Gold",
         "priceGoods": 20,
         "probabilityOfLoss": 5
       },
       {
         "id": 7,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/uvelichennyj_zarjad.png",
-        "nameGoods": "Увеличенный заряд",
+        "nameGoods": "Increased charge",
         "priceGoods": 17.5,
         "probabilityOfLoss": 6
       },
       {
         "id": 8,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
-        "nameGoods": "8к св.опыта",
+        "nameGoods": "8K free exp",
         "priceGoods": 15,
         "probabilityOfLoss": 6
       },
       {
         "id": 9,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
-        "nameGoods": "312 золота",
+        "nameGoods": "312 Gold",
         "priceGoods": 12.5,
         "probabilityOfLoss": 6
       },
        {
         "id": 10,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/sgushhennoe_moloko.png",
-        "nameGoods": "Сгущенка",
+        "nameGoods": "Condensed milk",
         "priceGoods": 10,
         "probabilityOfLoss": 5
       }
     ],
     "imageCase": "https://wgfmcase.ucoz.net/WGFMCase/WhiteTigerCase/wtiger_case.png",
-    "nameCase": "Белый тигр",
+    "nameCase": "White tiger",
     "priceCase": 250
   }
 ]
