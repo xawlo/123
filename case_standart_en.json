@@ -11,49 +11,49 @@
       {
         "id": 1,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
-        "nameGoods": "1000 св.опыта",
+        "nameGoods": "1000 free exp",
         "priceGoods": 1.6,
         "probabilityOfLoss": 6
       },
       {
         "id": 2,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
-        "nameGoods": "100 золота",
+        "nameGoods": "100 Gold",
         "priceGoods": 3.4,
         "probabilityOfLoss": 5
       },
       {
         "id": 3,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/FreeCase/1_den_premium.png",
-        "nameGoods": "1 день ПА",
+        "nameGoods": "1 days PA",
         "priceGoods": 8.5,
         "probabilityOfLoss": 3
       },
        {
         "id": 4,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/FreeCase/ognetushitel.png",
-        "nameGoods": "Ручной огнетушитель",
+        "nameGoods": "Fire extinguisher",
         "priceGoods": 0.5,
         "probabilityOfLoss": 6
       },
        {
         "id": 5,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/FreeCase/bolotnyj_alligator-kamufljazh.png",
-        "nameGoods": "Болотный аллигатор",
+        "nameGoods": "Swamp alligator",
         "priceGoods": 1.7,
         "probabilityOfLoss": 5
       },
       {
         "id": 6,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
-        "nameGoods": "200 золота",
+        "nameGoods": "200 Gold",
         "priceGoods": 6.4,
         "probabilityOfLoss": 3
       },
       {
         "id": 7,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
-        "nameGoods": "5000 св.опыта",
+        "nameGoods": "5000 free exp.",
         "priceGoods": 8,
         "probabilityOfLoss": 4
       },
@@ -67,14 +67,14 @@
       {
         "id": 9,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/podkalibernyj_snarjad.png",
-        "nameGoods": "20 Снарядов",
+        "nameGoods": "20 Shells",
         "priceGoods": 4,
         "probabilityOfLoss": 5
       },
        {
         "id": 10,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
-        "nameGoods": "50 золота",
+        "nameGoods": "50 Gold",
         "priceGoods": 1.7,
         "probabilityOfLoss": 6
       }
@@ -88,77 +88,77 @@
       {
         "id": 0,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WarriorCase/T-45.png",
-        "nameGoods": "Танк Т-45",
+        "nameGoods": "Т-45",
         "priceGoods": 35,
         "probabilityOfLoss": 1
       },
       {
         "id": 1,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WarriorCase/voin.png",
-        "nameGoods": "Медаль Воин",
+        "nameGoods": "Warrior Medal",
         "priceGoods": 40,
         "probabilityOfLoss": 1
       },
       {
         "id": 2,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WarriorCase/tetrarkh.png",
-        "nameGoods": "Танк Тетрарх",
+        "nameGoods": "Tetrarch",
         "priceGoods": 25,
         "probabilityOfLoss": 2
       },
       {
         "id": 3,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WarriorCase/2_dnja_premium_akkaunt.png",
-        "nameGoods": "2 дня ПА",
+        "nameGoods": "2 days PA",
         "priceGoods": 17,
         "probabilityOfLoss": 3
       },
        {
         "id": 4,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
-        "nameGoods": "10к св.опыта",
+        "nameGoods": "10K free exp.",
         "priceGoods": 16,
         "probabilityOfLoss": 4
       },
        {
         "id": 5,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
-        "nameGoods": "350 Золота",
+        "nameGoods": "350 Gold",
         "priceGoods": 10,
         "probabilityOfLoss": 3
       },
       {
         "id": 6,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/podkalibernyj_snarjad.png",
-        "nameGoods": "30 снарядов",
+        "nameGoods": "30 Shells",
         "priceGoods": 6.5,
         "probabilityOfLoss": 5
       },
       {
         "id": 7,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
-        "nameGoods": "140 золота",
+        "nameGoods": "140 Gold",
         "priceGoods": 4,
         "probabilityOfLoss": 5
       },
       {
         "id": 8,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/WarriorCase/largeMedkit.png",
-        "nameGoods": "Аптечка",
+        "nameGoods": "First aid kit",
         "priceGoods": 3.5,
         "probabilityOfLoss": 6
       },
       {
         "id": 9,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
-        "nameGoods": "2000 св.опыта",
+        "nameGoods": "2000 free exp.",
         "priceGoods": 3,
         "probabilityOfLoss": 6
       },
        {
         "id": 10,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
-        "nameGoods": "60 золота",
+        "nameGoods": "60 Gold",
         "priceGoods": 2.5,
         "probabilityOfLoss": 6
       }
@@ -179,76 +179,76 @@
       {
         "id": 1,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/cherchill_iii.png",
-        "nameGoods": "Черчилль III",
+        "nameGoods": "Churchill III",
         "priceGoods": 75,
         "probabilityOfLoss": 2
       },
       {
         "id": 2,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/7_dnja_pa.png",
-        "nameGoods": "7 дней ПА",
+        "nameGoods": "7 days PA",
         "priceGoods": 51,
         "probabilityOfLoss": 3
       },
       {
         "id": 3,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
-        "nameGoods": "21к св.опыта",
+        "nameGoods": "21K free exp.",
         "priceGoods": 48,
         "probabilityOfLoss": 4
       },
        {
         "id": 4,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/500-1000.png",
-        "nameGoods": "1к Золота",
+        "nameGoods": "1K Gold",
         "priceGoods": 30,
         "probabilityOfLoss": 3
       },
        {
         "id": 5,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/podkalibernyj_snarjad.png",
-        "nameGoods": "90 снарядов",
+        "nameGoods": "90 Shells",
         "priceGoods": 19.5,
         "probabilityOfLoss": 5
       },
       {
         "id": 6,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
-        "nameGoods": "400 золота",
+        "nameGoods": "400 Gold",
         "priceGoods": 12,
         "probabilityOfLoss": 5
       },
       {
         "id": 7,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/doppajok.png",
-        "nameGoods": "Доппаек",
+        "nameGoods": "Extra ration",
         "priceGoods": 10.5,
         "probabilityOfLoss": 6
       },
       {
         "id": 8,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/svobodnyj_opyt.png",
-        "nameGoods": "6к св.опыта",
+        "nameGoods": "6K free exp.",
         "priceGoods": 9,
         "probabilityOfLoss": 6
       },
       {
         "id": 9,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/60-400.png",
-        "nameGoods": "180 золота",
+        "nameGoods": "180 Gold",
         "priceGoods": 7.5,
         "probabilityOfLoss": 6
       },
        {
         "id": 10,
         "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/khokhloma_maskirovka.png",
-        "nameGoods": "Маскировка Хохлома",
+        "nameGoods": "Khokhloma disguise",
         "priceGoods": 6,
         "probabilityOfLoss": 5
       }
     ],
     "imageCase": "https://wgfmcase.ucoz.net/WGFMCase/IMBACase/imba_case.png",
-    "nameCase": "ИМБА",
+    "nameCase": "IMBA",
     "priceCase": 150
   },
    {
