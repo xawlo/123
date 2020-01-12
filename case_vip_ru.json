@@ -3,42 +3,84 @@
     "goods": [
       {
         "id": 0,
-        "imgGoods": "https://i.pinimg.com/originals/63/48/dc/6348dcc126b500e05a3d7a0276ee37e7.png",
-        "nameGoods": "500 золота",
-        "priceGoods": 0.99,
-        "probabilityOfLoss": 6
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/12500-17500.png",
+        "nameGoods": "17500 Золото",
+        "priceGoods": 700,
+        "probabilityOfLoss": 1
       },
       {
         "id": 1,
-        "imgGoods": "https://i.pinimg.com/originals/2c/f5/3e/2cf53ecd46681427a4655a19dfa2ac59.png",
-        "nameGoods": "3 дня ПА",
-        "priceGoods": 1.5,
-        "probabilityOfLoss": 5
-      },
-       {
-        "id": 2,
-        "imgGoods": "https://i.pinimg.com/originals/9a/8e/37/9a8e378009f88eb58f6487e08564cd63.png",
-        "nameGoods": "Танк T-34-85",
-        "priceGoods": 0.65,
-        "probabilityOfLoss": 8
-      },
-      {
-        "id": 3,
-        "imgGoods": "https://i.pinimg.com/originals/70/5b/c1/705bc107726f69ea98650c7d9f02d5a2.png",
-        "nameGoods": "ИС - 6",
-        "priceGoods": 2,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/12500-17500.png",
+        "nameGoods": "12500 Золото",
+        "priceGoods": 500,
         "probabilityOfLoss": 2
       },
       {
+        "id": 2,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/3200-8500.png",
+        "nameGoods": "8500 Золото",
+        "priceGoods": 340,
+        "probabilityOfLoss": 3
+      },
+      {
+        "id": 3,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/3200-8500.png",
+        "nameGoods": "5000 Золото",
+        "priceGoods": 200,
+        "probabilityOfLoss": 3
+      },
+       {
         "id": 4,
-        "imgGoods": "https://i.pinimg.com/originals/0f/3e/10/0f3e106e0c77fc9dc15dbd91f55076ad.png",
-        "nameGoods": "Танк Т-34",
-        "priceGoods": 0.60,
-        "probabilityOfLoss": 9
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/3200-8500.png",
+        "nameGoods": "8000 Золото",
+        "priceGoods": 320,
+        "probabilityOfLoss": 4
+      },
+       {
+        "id": 5,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/3200-8500.png",
+        "nameGoods": "3250 Золото",
+        "priceGoods": 130,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 6,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/1050-2500.png",
+        "nameGoods": "2000 Золото",
+        "priceGoods": 80,
+        "probabilityOfLoss": 5
+      },
+      {
+        "id": 7,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/1050-2500.png",
+        "nameGoods": "1750 Золото",
+        "priceGoods": 70,
+        "probabilityOfLoss": 6
+      },
+      {
+        "id": 8,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/1050-2500.png",
+        "nameGoods": "1250 Золото",
+        "priceGoods": 50,
+        "probabilityOfLoss": 6
+      },
+      {
+        "id": 9,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/1050-2500.png",
+        "nameGoods": "1500 Золото",
+        "priceGoods": 60,
+        "probabilityOfLoss": 6
+      },
+       {
+        "id": 10,
+        "imgGoods": "https://wgfmcase.ucoz.net/WGFMCase/GeneralPictures/500-1000.png",
+        "nameGoods": "1000 Золото",
+        "priceGoods": 40,
+        "probabilityOfLoss": 5
       }
     ],
-    "imageCase": "https://i.pinimg.com/originals/ad/e1/99/ade1994c00ceecdae3bb445aeb8733dc.png",
+    "imageCase": "https://wgfmcase.ucoz.net/WGFMCase/GoldenCase/gold_case.png",
     "nameCase": "Первый золотой",
-    "priceCase": 1
+    "priceCase": 1000
   }
-]
+  ]
